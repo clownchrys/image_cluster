@@ -1,0 +1,7 @@
+__pycache__
+_centroids
+_image
+_pca_components
+*.pyc
+.DS_STORE
+.ipynb_checkpoints
